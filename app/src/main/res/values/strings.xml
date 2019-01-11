@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Reminder Demo</string>
+
+    <string-array name="reminde_spiner">
+        <item>Select name</item>
+        <item>Aakib</item>
+        <item>Rizwan</item>
+        <item>Zuber</item>
+        <item>Aamir</item>
+        <item>All users</item>
+
+    </string-array>
+</resources>
